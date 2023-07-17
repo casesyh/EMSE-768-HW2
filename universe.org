@@ -153,7 +153,7 @@ The level of difficulty in understanding something is related to the width of th
 
 What we're going to talk about is how to study the Universe using the scientific approach. It sounds weird to talk about the evolution of the Universe. How do we even know? What are the key observations that support the theories? What are the key theories that support the framework?
 
-To begin with we start from relativity. Relativity is a weird theory. Or not. Relativity is inspired by the observation in the Michelson-Morley experiment. (Einstein said it is not.)
+To begin with we start from relativity. Relativity is a weird theory. Or not. Relativity is inspired by the observation in the Michelson-Morley experiment (Einstein said it is not).
 
 What was the initial goal for the Michelson-Morley experiment? The Michelson-Morley experiment was designed to find aether, the medium that light is supposed to travel through. In what sense? light has wave properties. For other waves the wave feaure is from the oscillation of a medium. Why should light be an exception?
 
