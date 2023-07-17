@@ -1,4 +1,4 @@
-#+TITLE: The universe
+#+TITLE: The Universe
 #+AUTHOR:Yuhao
 #+EMAIL: Your EMail
 # ##############################################################################
