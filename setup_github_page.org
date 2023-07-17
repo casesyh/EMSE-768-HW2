@@ -1,0 +1,58 @@
+#+TITLE:How to lauch a webpage with Github?
+#+AUTHOR:Yuhao
+#+EMAIL: Your EMail
+# ##############################################################################
+#+OPTIONS: toc:nil email:nil author:nil date:nil
+#+OPTIONS: creator:nil timestamp:nil html-postamble:nil num:nil
+#+OPTIONS: H:7
+# ##############################################################################
+#+SELECT_TAGS: export
+# ##############################################################################
+# HTML_HEAD: <link rel="stylesheet" type="text/css" href="CSS/FM.css" />
+# HTML_HEAD: <style>#content {font-family: verdana;}</style>
+# ##############################################################################
+# Fabrice Niessen Styles for Org (https://bit.ly/3OQpuN5)
+# ------------------------------------------------------------------------------
+# Download
+# SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+# ------------------------------------------------------------------------------
+# Local
+# SETUPFILE: setup/Theme-ReadTheOrg-local.setup
+# SETUPFILE: setup/Theme-BigBlow-Local.setup
+#+SETUPFILE: setup/Theme-BigSol-Local.setup
+# SETUPFILE: setup/Theme-Big001-Local.setup
+# SETUPFILE: setup/Theme-Big002-Local.setup
+# #############################################################################
+
+* Introduction
+What is this document for?
+
+This document is for drafting an essay for HW2 of the summer course on scientific writing EMSE-7(4 or 3, that is)68
+
+* Brain storm
+
+** What does it mean by a github page here?
+A github page is a webpage lauched through github. It's free and reliable
+
+** How to launch a github page?
+Check [[https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site][creating a github page site]] and [[https://pages.github.com][GitHub Pages]] to see information provided by Github.
+
+** Have you tried launching a webpage from github?
+Yes
+
+** Any problems in the process?
+
+When I made this webpage on the [[https://casesyh.github.io/universe/][Universe]], I only found GitHub Pages. What confused me there was how github recognizes the file to render into a webpage. At first I uploaded a file called universe.html. The webpage built from the repository didn't have the html rendered. Then I realized github looks for index.html. I created a file index.html in the repository. The webpage built from the repository rendered the content in index.html.
+
+** What is a github?
+To talk about github we need to first talk about git.
+
+** What is git?
+
+
+* Draft 1
+
+Launch a webpage with Github Pages
+
+
