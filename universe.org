@@ -1,0 +1,181 @@
+#+TITLE: The universe
+#+AUTHOR:Yuhao
+#+EMAIL: Your EMail
+# ##############################################################################
+#+OPTIONS: toc:nil email:nil author:nil date:nil
+#+OPTIONS: creator:nil timestamp:nil html-postamble:nil num:nil
+#+OPTIONS: H:7
+# ##############################################################################
+#+SELECT_TAGS: export
+# ##############################################################################
+# HTML_HEAD: <link rel="stylesheet" type="text/css" href="CSS/FM.css" />
+# HTML_HEAD: <style>#content {font-family: verdana;}</style>
+# ##############################################################################
+# Fabrice Niessen Styles for Org (https://bit.ly/3OQpuN5)
+# ------------------------------------------------------------------------------
+# Download
+# SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+# ------------------------------------------------------------------------------
+# Local
+# SETUPFILE: setup/Theme-ReadTheOrg-local.setup
+# SETUPFILE: setup/Theme-BigBlow-Local.setup
+# SETUPFILE: setup/Theme-BigSol-Local.setup
+# SETUPFILE: setup/Theme-Big001-Local.setup
+#+SETUPFILE: setup/Theme-Big002-Local.setup
+# #############################################################################
+* Introduction
+What is this?
+
+This is the outline for an article using the Top-Down approach in writing.
+
+What is the Top-Down approach?
+
+In a Top-Down approach for writing, the writer makes an outline first.
+
+That's it?
+
+Yes, that's it.
+
+Okay
+
+Please see the other tabs for more information about the universe.
+
+Are the tabs the outline?
+
+Yes.
+
+What is the article for?
+
+This article is for a homework in summer course EMSE768  scientific writing
+
+* The origin of the Universe
+** [[https://www.scielo.br/j/ea/a/L4Cn5NyczfTBhdxTDsr4Kng/?format=pdf&lang=en#:~:text=The%20flat%20Earth%2C%20the%20geocentric,to%20say%20they%20were%20incomplete.][Origin of the universe (article)]]
+* Standard cosmological model
+** [[https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf][Standard Cosmological model (article)]]
+** 
+* The existential problem
+Some may feel small because the Earth as a planet looks much bigger than a single person. But the Earth as a planet looks small compared to the Sun. The Sun as a star looks small compared to the solar system. The solar system looks small compared to the galaxy. The galaxy looks small compared to the galaxy cluster. The galaxy cluster looks small compared to the other bigger galaxy clusters. No matter how big a galaxy cluster is, it looks small compared to the... finally...the universe.
+
+(Check this [[https://blogs.scientificamerican.com/life-unbounded/having-an-existential-crisis-it-could-be-worse-and-weirder/][article on scientific American]].)
+
+Then how does a single person compare to the universe?
+
+It's hard to say. A person is small in space and time compared to the universe. But a person can perceive the universe. The volume of the mind doesn't seem to have limit.  
+
+* The CMB (Cosmic Microwave Background)
+** What is the CMB?
+The CMB is a background signal in space. The discovery of the CMB is a fun story. 
+** How is CMB measured?
+The CMB is measured with bolometers sent in space. The bolometers measure the temperature fluctuations.
+
+Questions: How does Spider work?
+
+** What are the key features of the CMB?
+The CMB is isotropic and homogeneous. Isotropic means that it's uniform across all directions. Homogeneous means pretty much the same thing. 
+** If it's infinite, it shouldn't be in equilibrium
+The size of the universe appears to be infinite. 
+** If it is in equilibrium, then it shouldn't be infinite
+* Math and the universe
+Gödel's theorem said math is not going to be complete
+
+There are statements in math that you can either prove or disprove
+
+If the universe is logically complete
+
+Math is not ever going to describe the universe fully
+
+In that sense, math could be a science
+
+It's better to have a logical universe than a mathematical universe
+
+It's beyond science to deduce the truths of the universe. Science is to provide description of predictions in a certain scope.
+
+I would like to think that math is true and reflects in some way how the universe works.
+
+But mathematics is logically in complete.
+
+So either the universe is mathematical but not logical or universe is logical but not mathematical
+* GPT
+** What does GPT say about the Universe?
+[[https://github.com/rksm/org-ai]]
+
+#+BEGIN_AI
+How do we understand the Universe?
+
+Understanding the universe is a complex and ongoing endeavor pursued by scientists across various disciplines. There are several methods and tools used to study and comprehend the universe:
+
+1. Observations: Scientists use various telescopes, both on the ground and in space, to observe different aspects of the universe. These observations help gather data on celestial objects, their movements, interactions, and other physical properties.
+
+2. Theoretical Models: Mathematical models and theories are developed to explain observed phenomena and make predictions about the behavior of the universe. These models are then tested against observational data to further refine our understanding.
+
+3. Experiments: Scientists conduct experiments in laboratories or perform measurements in space, such as using satellites and spacecraft, to study specific aspects of the universe. These experiments provide valuable insights into the fundamental laws governing the universe.
+
+4. Collaboration and Peer Review: Scientists work together in research communities, publishing their findings and engaging in rigorous peer review. This process ensures that studies are scrutinized, replicated, and validated by experts, helping to refine and build upon existing knowledge.
+
+5. Interdisciplinary Approach: Understanding the universe often requires collaboration among different scientific disciplines, such as physics, astronomy, cosmology, astrophysics, and others, as it involves studying a wide range of phenomena from subatomic particles to galaxies and everything in between.
+
+6. Technology Advancements: Advances in technology, such as improved telescopes, detectors, computational power, and data analysis techniques, have greatly enhanced our ability to study the universe. These advancements continue to push the boundaries of our knowledge and exploration.
+
+It is important to note that our understanding of the universe is continually evolving, and new discoveries often challenge previous notions. Therefore, scientists adopt a rigorous and iterative process of observation, experimentation, modeling, and validation to continually expand our understanding of the universe.
+
+[ME]:Thanks
+
+for the question!
+
+[ME]:
+#+END_AI
+
+* Initial draft of the article
+Title: The Universe
+
+The Universe is the place we live in. What do we know about the Universe?
+
+Scratch that. I need to write following the outline I had.
+
+What is this essay for? This essay for a practice using the Top-Down approach for doing writing. What is the Top-Down approach? The Top-Down approach is to make an outline and then fill in the content.
+
+What is the topic in this practice essay? This essay is about the Universe. How much do we know about the Universe? Hard to say. (Shall we follow the outline? Where is the outline? The outline is in this web page. Looks good. What's next on the outline?)
+
+What is the origin of the universe? For the origin of the universe, check the article in this link, [[https://www.scielo.br/j/ea/a/L4Cn5NyczfTBhdxTDsr4Kng/?format=pdf&lang=en#:~:text=The%20flat%20Earth%2C%20the%20geocentric,to%20say%20they%20were%20incomplete.][origin of the universe]].
+
+What's the next item on the outline? The next item is the Standard Cosmological Model. It's citing another material on line in this link, [[https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf][cosmological model]].
+
+What's next? The next one is the existential problem. Sometimes people feel small because the Universe is supposed to be very big.
+
+The next section is about the CMB.
+
+* Draft 2
+
+Broader than the continent is the ocean. Broader than the ocean is the sky. Broader than the sky is the Universe. Broader than the Universe is the breadth of an open mind.
+
+The level of difficulty in understanding something is related to the width of the content in it. Understanding the Universe is very challenging because the Universe is so broad. The only other task as challenging as understanding the Universe is to understand the mind, with the mind. It does not mean the land and the ocean are all understood. It does not hmean the land and the ocean are easier to understand.
+
+What we're going to talk about is how to study the Universe using the scientific approach. It sounds weird to talk about the evolution of the Universe. How do we even know? What are the key observations that support the theories? What are the key theories that support the framework?
+
+To begin with we start from relativity. Relativity is a weird theory. Or not. Relativity is inspired by the observation in the Michelson-Morley experiment. (Einstein said it is not.)
+
+What was the initial goal for the Michelson-Morley experiment? The Michelson-Morley experiment was designed to find aether, the medium that light is supposed to travel through. In what sense? light has wave properties. For other waves the wave feaure is from the oscillation of a medium. Why should light be an exception?
+
+The theory of electromagnetism is summarized from observations in electromagnetic phenomena. From the Michelson-Morley experiment and other experiments, the speed of light is the same in reference frames at different velocities. Under the constraint of the speed of light staying constant in reference frames at different velocities, space and time would need to correlate.When the space and time correlate, the space and time are not independent. It's against intuition to have space and time correlated.
+
+If space and time are correlated instead of independent, it becomes possible to model the effect of gravity by correlating the space and time. In the daily observations and observations in astronomy, we see the effect of gravity is related to mass. If we assume mass can lead to a specific way of correlation in space and time that creates the effect of gravity, we can develop a theory, the GR (General Relativity).
+
+The application of GR is about solving the Einstein equation. In the Einstein equation the left hand side is a four-dimentional quantity related to the geometric properties in space-time, the right side a four-dimentional quantity related to the distribution of energy and momentum. Solving the Einstein equation for homogeneous and isotropic mass distribution, we will find a solution.What properties does the solution have? The solution shows the space is expanding.
+
+If we look at the Universe from the large scale, it is not crazy to assume the Universe is isotropic and homogenous. Is the Universe expanding? Hubble made some observations on the speed of galaxies in the direction away from the Earth and the distance of the galaxies away from the Earth. The result is that the farther a galaxy is away from the Earth, the faster the galaxy is receding from the Earth. So the Universe is expanding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
