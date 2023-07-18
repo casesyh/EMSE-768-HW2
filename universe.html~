@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>The universe</title>
+<title>The Universe</title>
 <meta name="generator" content="Org Mode" />
 <style>
   #content { max-width: 60em; margin: auto; }
@@ -202,13 +202,34 @@
 <script type="text/javascript" src="Styles/big002/js/big002.js"></script>
 <script type="text/javascript" src="Styles/big002/js/hideshow.js"></script>
 <script type="text/javascript" src="Styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content" class="content">
-<h1 class="title">The universe</h1>
-<div id="outline-container-orgd581749" class="outline-2">
-<h2 id="orgd581749">Introduction</h2>
-<div class="outline-text-2" id="text-orgd581749">
+<h1 class="title">The Universe</h1>
+<div id="outline-container-org232697b" class="outline-2">
+<h2 id="org232697b">Introduction</h2>
+<div class="outline-text-2" id="text-org232697b">
 <p>
 What is this?
 </p>
@@ -259,28 +280,28 @@ This article is for a homework in summer course EMSE768  scientific writing
 </div>
 </div>
 
-<div id="outline-container-org1011026" class="outline-2">
-<h2 id="org1011026">The origin of the Universe</h2>
-<div class="outline-text-2" id="text-org1011026">
+<div id="outline-container-orgd1bfcb4" class="outline-2">
+<h2 id="orgd1bfcb4">The origin of the Universe</h2>
+<div class="outline-text-2" id="text-orgd1bfcb4">
 </div>
-<div id="outline-container-orge1491bc" class="outline-3">
-<h3 id="orge1491bc"><a href="https://www.scielo.br/j/ea/a/L4Cn5NyczfTBhdxTDsr4Kng/?format=pdf&amp;lang=en#:~:text=The%20flat%20Earth%2C%20the%20geocentric,to%20say%20they%20were%20incomplete.">Origin of the universe (article)</a></h3>
-</div>
-</div>
-<div id="outline-container-org35c1d13" class="outline-2">
-<h2 id="org35c1d13">Standard cosmological model</h2>
-<div class="outline-text-2" id="text-org35c1d13">
-</div>
-<div id="outline-container-orga664eb7" class="outline-3">
-<h3 id="orga664eb7"><a href="https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf">Standard Cosmological model (article)</a></h3>
-</div>
-<div id="outline-container-orgf44809a" class="outline-3">
-<h3 id="orgf44809a"></h3>
+<div id="outline-container-org4ecf16f" class="outline-3">
+<h3 id="org4ecf16f"><a href="https://www.scielo.br/j/ea/a/L4Cn5NyczfTBhdxTDsr4Kng/?format=pdf&amp;lang=en#:~:text=The%20flat%20Earth%2C%20the%20geocentric,to%20say%20they%20were%20incomplete.">Origin of the universe (article)</a></h3>
 </div>
 </div>
-<div id="outline-container-org066813c" class="outline-2">
-<h2 id="org066813c">The existential problem</h2>
-<div class="outline-text-2" id="text-org066813c">
+<div id="outline-container-orgdfaa1b9" class="outline-2">
+<h2 id="orgdfaa1b9">Standard cosmological model</h2>
+<div class="outline-text-2" id="text-orgdfaa1b9">
+</div>
+<div id="outline-container-org154f5a9" class="outline-3">
+<h3 id="org154f5a9"><a href="https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf">Standard Cosmological model (article)</a></h3>
+</div>
+<div id="outline-container-org5334ee1" class="outline-3">
+<h3 id="org5334ee1"></h3>
+</div>
+</div>
+<div id="outline-container-org8f02642" class="outline-2">
+<h2 id="org8f02642">The existential problem</h2>
+<div class="outline-text-2" id="text-org8f02642">
 <p>
 Some may feel small because the Earth as a planet looks much bigger than a single person. But the Earth as a planet looks small compared to the Sun. The Sun as a star looks small compared to the solar system. The solar system looks small compared to the galaxy. The galaxy looks small compared to the galaxy cluster. The galaxy cluster looks small compared to the other bigger galaxy clusters. No matter how big a galaxy cluster is, it looks small compared to the&#x2026; finally&#x2026;the universe.
 </p>
@@ -299,21 +320,21 @@ It's hard to say. A person is small in space and time compared to the universe. 
 </div>
 </div>
 
-<div id="outline-container-org5957077" class="outline-2">
-<h2 id="org5957077">The CMB (Cosmic Microwave Background)</h2>
-<div class="outline-text-2" id="text-org5957077">
+<div id="outline-container-orgc197bcc" class="outline-2">
+<h2 id="orgc197bcc">The CMB (Cosmic Microwave Background)</h2>
+<div class="outline-text-2" id="text-orgc197bcc">
 </div>
-<div id="outline-container-org5e96610" class="outline-3">
-<h3 id="org5e96610">What is the CMB?</h3>
-<div class="outline-text-3" id="text-org5e96610">
+<div id="outline-container-org77c3120" class="outline-3">
+<h3 id="org77c3120">What is the CMB?</h3>
+<div class="outline-text-3" id="text-org77c3120">
 <p>
 The CMB is a background signal in space. The discovery of the CMB is a fun story. 
 </p>
 </div>
 </div>
-<div id="outline-container-orgdebacb0" class="outline-3">
-<h3 id="orgdebacb0">How is CMB measured?</h3>
-<div class="outline-text-3" id="text-orgdebacb0">
+<div id="outline-container-org0df2020" class="outline-3">
+<h3 id="org0df2020">How is CMB measured?</h3>
+<div class="outline-text-3" id="text-org0df2020">
 <p>
 The CMB is measured with bolometers sent in space. The bolometers measure the temperature fluctuations.
 </p>
@@ -324,29 +345,37 @@ Questions: How does Spider work?
 </div>
 </div>
 
-<div id="outline-container-org6d1eb0a" class="outline-3">
-<h3 id="org6d1eb0a">What are the key features of the CMB?</h3>
-<div class="outline-text-3" id="text-org6d1eb0a">
+<div id="outline-container-org9897da2" class="outline-3">
+<h3 id="org9897da2">What are the key features of the CMB?</h3>
+<div class="outline-text-3" id="text-org9897da2">
 <p>
 The CMB is isotropic and homogeneous. Isotropic means that it's uniform across all directions. Homogeneous means pretty much the same thing. 
 </p>
 </div>
 </div>
-<div id="outline-container-org8e4b0f7" class="outline-3">
-<h3 id="org8e4b0f7">If it's infinite, it shouldn't be in equilibrium</h3>
-<div class="outline-text-3" id="text-org8e4b0f7">
+<div id="outline-container-orgd7ab008" class="outline-3">
+<h3 id="orgd7ab008">If it's infinite, it shouldn't be in equilibrium</h3>
+<div class="outline-text-3" id="text-orgd7ab008">
 <p>
 The size of the universe appears to be infinite. 
 </p>
 </div>
 </div>
-<div id="outline-container-orgfabeb3b" class="outline-3">
-<h3 id="orgfabeb3b">If it is in equilibrium, then it shouldn't be infinite</h3>
+<div id="outline-container-org311bfa3" class="outline-3">
+<h3 id="org311bfa3">If it is in equilibrium, then it shouldn't be infinite</h3>
+</div>
+<div id="outline-container-org0437ff7" class="outline-3">
+<h3 id="org0437ff7">What is the best reference for the CMB?</h3>
+<div class="outline-text-3" id="text-org0437ff7">
+<p>
+Read the Nobel lecture on the discovery of the CMB <a href="https://www.nobelprize.org/uploads/2018/06/wilson-lecture-1.pdf">THE COSMIC MICROWAVE BACKGROUND RADIATION</a> by Robert W Wilson. Highly recommend.
+</p>
 </div>
 </div>
-<div id="outline-container-orge9a6477" class="outline-2">
-<h2 id="orge9a6477">Math and the universe</h2>
-<div class="outline-text-2" id="text-orge9a6477">
+</div>
+<div id="outline-container-org7fe2e25" class="outline-2">
+<h2 id="org7fe2e25">Math and the universe</h2>
+<div class="outline-text-2" id="text-org7fe2e25">
 <p>
 Gödel's theorem said math is not going to be complete
 </p>
@@ -386,20 +415,32 @@ But mathematics is logically in complete.
 <p>
 So either the universe is mathematical but not logical or universe is logical but not mathematical
 </p>
+
+<p>
+Two things in math are fun to do:
+</p>
+
+<p>
+Calculus in different context
+</p>
+
+<p>
+Solving differential equations
+</p>
 </div>
 </div>
-<div id="outline-container-org0c1c05b" class="outline-2">
-<h2 id="org0c1c05b">GPT</h2>
-<div class="outline-text-2" id="text-org0c1c05b">
+<div id="outline-container-org6b8a0da" class="outline-2">
+<h2 id="org6b8a0da">GPT</h2>
+<div class="outline-text-2" id="text-org6b8a0da">
 </div>
-<div id="outline-container-org64a3ae4" class="outline-3">
-<h3 id="org64a3ae4">What does GPT say about the Universe?</h3>
-<div class="outline-text-3" id="text-org64a3ae4">
+<div id="outline-container-org97152bc" class="outline-3">
+<h3 id="org97152bc">What does GPT say about the Universe?</h3>
+<div class="outline-text-3" id="text-org97152bc">
 <p>
 <a href="https://github.com/rksm/org-ai">https://github.com/rksm/org-ai</a>
 </p>
 
-<div class="AI" id="org6594120">
+<div class="AI" id="org2923dc3">
 <p>
 How do we understand the Universe?
 </p>
@@ -443,9 +484,9 @@ for the question!
 </div>
 </div>
 
-<div id="outline-container-org56e626f" class="outline-2">
-<h2 id="org56e626f">Initial draft of the article</h2>
-<div class="outline-text-2" id="text-org56e626f">
+<div id="outline-container-org294396b" class="outline-2">
+<h2 id="org294396b">Initial draft of the article</h2>
+<div class="outline-text-2" id="text-org294396b">
 <p>
 Title: The Universe
 </p>
@@ -484,15 +525,15 @@ The next section is about the CMB.
 </div>
 </div>
 
-<div id="outline-container-orgdd13dff" class="outline-2">
-<h2 id="orgdd13dff">Draft 2</h2>
-<div class="outline-text-2" id="text-orgdd13dff">
+<div id="outline-container-orgf0c4d55" class="outline-2">
+<h2 id="orgf0c4d55">Draft 2</h2>
+<div class="outline-text-2" id="text-orgf0c4d55">
 <p>
 Broader than the continent is the ocean. Broader than the ocean is the sky. Broader than the sky is the Universe. Broader than the Universe is the breadth of an open mind.
 </p>
 
 <p>
-The level of difficulty in understanding something is related to the width of the content in it. Understanding the Universe is very challenging because the Universe is so broad. The only other task as challenging as understanding the Universe is to understand the mind, with the mind. It does not mean the land and the ocean are all understood. It does not hmean the land and the ocean are easier to understand.
+The level of difficulty in understanding something is related to the width of the content in it. Understanding the Universe is very challenging because the Universe is so broad. The only other task as challenging as understanding the Universe is to understand the mind, with the mind. It does not mean the land and the ocean are all understood. It does not mean the land and the ocean are easier to understand.
 </p>
 
 <p>
@@ -508,7 +549,7 @@ What was the initial goal for the Michelson-Morley experiment? The Michelson-Mor
 </p>
 
 <p>
-The theory of electromagnetism is summarized from observations in electromagnetic phenomena. From the Michelson-Morley experiment and other experiments, the speed of light is the same in reference frames at different velocities. Under the constraint of the speed of light staying constant in reference frames at different velocities, space and time would need to correlate. When the space and time correlate, the space and time are not independent. It's against intuition to have space and time correlated.
+From the Michelson-Morley experiment and other experiments, the speed of light is the same in reference frames at different velocities. Under the constraint of the speed of light staying constant in reference frames at different velocities, space and time would need to correlate. When the space and time correlate, the space and time are not independent. It's against intuition to have space and time correlated.
 </p>
 
 <p>
@@ -516,11 +557,19 @@ If space and time are correlated instead of independent, it becomes possible to 
 </p>
 
 <p>
-The application of GR is about solving the Einstein equation. In the Einstein equation the left hand side is a four-dimentional quantity related to the geometric properties in space-time, the right side a four-dimentional quantity related to the distribution of energy and momentum. Solving the Einstein equation for homogeneous and isotropic mass distribution, we will find a solution.What properties does the solution have? The solution shows the space is expanding.
+The application of GR is about solving the Einstein equation. In the Einstein equation the left hand side is a four-dimentional quantity related to the geometric properties in space-time, the right side a four-dimentional quantity related to the distribution of energy and momentum. Solving the Einstein equation for homogeneous and isotropic mass distribution, we will find a solution. What properties does the solution have? The solution shows that the space is expanding.
 </p>
 
 <p>
 If we look at the Universe from the large scale, it is not crazy to assume the Universe is isotropic and homogenous. Is the Universe expanding? Hubble made some observations on the speed of galaxies in the direction away from the Earth and the distance of the galaxies away from the Earth. The result is that the farther a galaxy is away from the Earth, the faster the galaxy is receding from the Earth. So the Universe is expanding.
+</p>
+
+<p>
+Another piece of evidence supporting the hypothesis of a Universe isotropic and homogeneous at the large scale is the observation of the CMB (Cosmic Microwave Background). The CMB at large scale is isotropic, indicating that the Universe was isotropic when the CMB was generated and that the expansion of the Universe has been isotropic since the CMB was generated. The power spectrum of the CMB follows the power spectrum of the so-called black-body radiation. The CMB power spectrum is the most perfect black-body radiation spectrum measured to date. The black-body radiation is the electromagnetic radiation from a system in thermal equilibrium with the environment.
+</p>
+
+<p>
+If the Universe was in a state of thermal equilibrium when the CMB was generated, was the Universe infinite when the CMB was generated? Is the Universe mathematical? Contrary to common thought, math is not logically perfect. G&ouml;del found that the natural number based systems are not logically complete. I do not know how the G&ouml;del incomplete theorems work. I can give one example of a paradox in the natural number system. Suppose \(\{n\}\) are all the natural numbers. Then \(\{1234*n\}\) are part of the natural numbers. But \(\{n\}\) and  \(\{1234*n\}\) have the same number of elements. Paradox. The root of the paradox is from the number of elements of the natural number system being infinite. Suppose the natural number system is not logical because it is infinite, if the Universe is infinite, would the Universe be logical? But how to imagine a  Universe that is not logical?
 </p>
 </div>
 </div>
