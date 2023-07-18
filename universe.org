@@ -61,7 +61,11 @@ Some may feel small because the Earth as a planet looks much bigger than a singl
 
 Then how does a single person compare to the universe?
 
-It's hard to say. A person is small in space and time compared to the universe. But a person can perceive the universe. The volume of the mind doesn't seem to have limit.  
+It's hard to say. A person is small in space and time compared to the universe. But a person can perceive the universe. The volume of the mind doesn't seem to have limit.
+
+Existential crisis could be a philosophical question. Existential crisis is a recognized clinical condition. See [[https://www.healthline.com/health/existential-crisis][What is an existential crisis?]]
+
+To resolve existential crisis, need to seek help from experts or seek self-help. The best self-help resources for existential crisis is the [[https://en.wikipedia.org/wiki/Existential_crisis][Wikipedia page on existential crisis]].
 
 * The CMB (Cosmic Microwave Background)
 ** What is the CMB?
@@ -178,7 +182,8 @@ If we look at the Universe from the large scale, it is not crazy to assume the U
 
 Another piece of evidence supporting the hypothesis of a Universe isotropic and homogeneous at the large scale is the observation of the CMB (Cosmic Microwave Background). The CMB at large scale is isotropic, indicating that the Universe was isotropic when the CMB was generated and that the expansion of the Universe has been isotropic since the CMB was generated. The power spectrum of the CMB follows the power spectrum of the so-called black-body radiation. The CMB power spectrum is the most perfect black-body radiation spectrum measured to date. The black-body radiation is the electromagnetic radiation from a system in thermal equilibrium with the environment.
 
-If the Universe was in a state of thermal equilibrium when the CMB was generated, was the Universe infinite when the CMB was generated? Is the Universe mathematical? Contrary to common thought, math is not logically perfect. G\ouml{}del found that the natural number based systems are not logically complete. I do not know how the G\ouml{}del incomplete theorems work. I can give one example of a paradox in the natural number system. Suppose $\{n\}$ are all the natural numbers. Then $\{1234*n\}$ are part of the natural numbers. But $\{n\}$ and  $\{1234*n\}$ have the same number of elements. Paradox. The root of the paradox is from the number of elements of the natural number system being infinite. Suppose the natural number system is not logical because it is infinite, if the Universe is infinite, would the Universe be logical? But how to imagine a  Universe that is not logical?
+If the Universe was in a state of thermal equilibrium when the CMB was generated, was the Universe infinite when the CMB was generated? Is the Universe mathematical? Contrary to common thought, math is not logically perfect. G\ouml{}del found that the natural number based systems are not logically complete. I do not know how the G\ouml{}del incomplete theorems work. I can give one example of a paradox in the natural number system. Suppose $\{n\}$ are all the natural numbers. Then $\{1234*n\}$ are part of the natural numbers. But $\{n\}$ and  $\{1234*n\}$ have the same number of elements. Paradox. The root of the paradox is from the number of elements of the natural number system being infinite. Suppose the natural number system is not logical because it is infinite, if the Universe is infinite, would the Universe be logical? But how to imagine a Universe that is not logical?
+
 
 
 
