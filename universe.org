@@ -109,7 +109,9 @@ Calculus in different context
 
 Solving differential equations
 
-(Brain storm by Zhen Zhu Nan Da)
+Math could not describe physics perfectly
+
+(Brain storm by Zhen Zhu Nan Da and Zhen Zhu Qu Qi)
 * GPT
 ** What does GPT say about the Universe?
 [[https://github.com/rksm/org-ai]]
@@ -184,29 +186,8 @@ Another piece of evidence supporting the hypothesis of a Universe isotropic and 
 
 If the Universe was in a state of thermal equilibrium when the CMB was generated, was the Universe infinite when the CMB was generated? Is the Universe mathematical? Contrary to common thought, math is not logically perfect. G\ouml{}del found that the natural number based systems are not logically complete. I do not know how the G\ouml{}del incomplete theorems work. I can give one example of a paradox in the natural number system. Suppose $\{n\}$ are all the natural numbers. Then $\{1234*n\}$ are part of the natural numbers. But $\{n\}$ and  $\{1234*n\}$ have the same number of elements. Paradox. The root of the paradox is from the number of elements of the natural number system being infinite. Suppose the natural number system is not logical because it is infinite, if the Universe is infinite, would the Universe be logical? But how to imagine a Universe that is not logical?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * How to make a web page like this?
 Check [[https://casesyh.github.io/Launch_GitHub_Page/][Launch a GitHub Page]].
+
+
 
