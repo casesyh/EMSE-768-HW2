@@ -76,7 +76,7 @@ Here, I'm going to discuss how to understend the evolution of the Universe. It s
 
 To begin with we start from relativity. Relativity is a weird theory. Or not. Relativity is inspired by the observation in the Michelson-Morley experiment (Einstein said it is not).
 
-What was the initial goal for the Michelson-Morley experiment? The Michelson-Morley experiment was designed to find aether, the medium that light is supposed to travel through. In what sense? light has wave properties. For other waves the wave feaure is from the oscillation of a medium. Why should light be an exception?
+What was the initial goal for the Michelson-Morley experiment? The Michelson-Morley experiment was designed to find aether, the medium that light is supposed to travel through. In what sense? Light has wave properties. For other waves the wave feaure is from the oscillation of a medium. Why should light be an exception?
 
 # The theory of electromagnetism is summarized from observations in electromagnetic phenomena.
 From the Michelson-Morley experiment and other experiments, the speed of light is the same in reference frames at different velocities. Under the constraint of the speed of light staying constant in reference frames at different velocities, space and time would need to correlate. When the space and time correlate, the space and time are not independent. It's against intuition to have space and time correlated.
@@ -105,7 +105,7 @@ What we're going to talk about is how to study the Universe using the scientific
 
 To begin with we start from relativity. Relativity is a weird theory. Or not. Relativity is inspired by the observation in the Michelson-Morley experiment (Einstein said it is not).
 
-What was the initial goal for the Michelson-Morley experiment? The Michelson-Morley experiment was designed to find aether, the medium that light is supposed to travel through. In what sense? light has wave properties. For other waves the wave feaure is from the oscillation of a medium. Why should light be an exception?
+What was the initial goal for the Michelson-Morley experiment? The Michelson-Morley experiment was designed to find aether, the medium that light is supposed to travel through. In what sense? Light has wave properties. For other waves the wave feaure is from the oscillation of a medium. Why should light be an exception?
 
 # The theory of electromagnetism is summarized from observations in electromagnetic phenomena.
 From the Michelson-Morley experiment and other experiments, the speed of light is the same in reference frames at different velocities. Under the constraint of the speed of light staying constant in reference frames at different velocities, space and time would need to correlate. When the space and time correlate, the space and time are not independent. It's against intuition to have space and time correlated.
